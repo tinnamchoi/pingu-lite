@@ -37,7 +37,7 @@ for i in "${pingu[@]}"; do
     ## replace "B", "W", "Y", "R" with a colored "#"
     case ${i:$j:1} in
     "B")
-      echo -en "\033[0;30m#\033[0m"
+      echo -en "\033[0;90m#\033[0m"
       ;;
     "W")
       echo -en "\033[0;37m#\033[0m"
