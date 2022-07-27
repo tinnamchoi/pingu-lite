@@ -11,11 +11,11 @@ $ sudo make install
 ## Usage
 
 ```
-$ pingu 8.8.8.8
+$ pingu <IP>
 ```
 **OR**
 ```
-$ pingu-lite 8.8.8.8
+$ pingu-lite <IP>
 ```
 
 ## Uninstall
